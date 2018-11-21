@@ -1,2 +1,2 @@
 # brewdog-map
-Map of Breewdog locations
+Map of Brewdog locations
